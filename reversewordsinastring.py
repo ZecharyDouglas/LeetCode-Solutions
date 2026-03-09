@@ -5,7 +5,7 @@ class Solution:
         #at end of the list pop until empty , 
         # arr = s.split()
         # ans=[]
-        #
+        ###
         # for i in range(len(arr)):
         #     if i != len(arr)-1:
         #         ans.append(arr[i])

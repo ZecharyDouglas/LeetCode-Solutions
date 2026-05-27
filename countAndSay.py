@@ -3,7 +3,7 @@ class Solution:
         arr="1"
         #move to the next element in the string
         if n == 1:
-            return arr
+            return arr 
         #between indexes 1 and n 
             #count repeated occurances of a character, add the occurances with count / char to ans list
         for _ in range(n-1):
